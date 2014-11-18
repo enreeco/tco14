@@ -5,8 +5,10 @@ Intro
 -----
 
 This is the demo app for TCO14.
+
 See the /docs folder for a brief slide show.
-Go to the **Resources** section for a live demo.
+
+Go to the **Resources** section for a live demo (no need to install or configure anything).
 
 Install & Configure
 -------------------
@@ -52,24 +54,33 @@ Install & Configure
 12. Give access permission to the VisualForce pages to the profiles that can access the new GDrive component (considering also the "proxy page" used to make the Lightning component work, GDRiveGenericConnector.page)
 
 You can access the Lightning app (live demo):
-    ** https://na16.lightning.force.com/tco14_demo/GDriveLigthningConnectorApp.app?id=003j00000042l0BAAQ
+
+    - https://na16.lightning.force.com/tco14_demo/GDriveLigthningConnectorApp.app?id=003j00000042l0BAAQ
         Note: remember to put a 18 characters Salesforce ID
-    ** https://na16.salesforce.com/003j00000042l0BAAQ (standard layout)
-    ** https://na16.lightning.force.com/one/one.app#/sObject/003j00000042l0BAAQ/view?t=1416299632331
+
+    - https://na16.salesforce.com/003j00000042l0BAAQ (standard layout)
+    
+    - https://na16.lightning.force.com/one/one.app#/sObject/003j00000042l0BAAQ/view?t=1416299632331
         This is salesforce1 visualization of the CRM, click on "Related" to see the Mobile Card section for the GDrive connector
 
 
 Resources
 ---------
 
-Live Demo (all IP whitelisted): 
-    username: tco14@topcoder.com 
-    password: Cloud12345 
-    secret question: city born? san francisco 
-    password never expires
-Salesforce Package: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t24000000HEXg
-Demo video: http://www.screencast.com/t/T5XOBHmNoj
-GitHub repo: https://github.com/enreeco/tco14
-Gmail User Admin (if you don't want to create your own app): 
-    username: topcoderopen14@gmail.com 
-    password: Cloud12345
+**Live Demo** (all IP whitelisted): 
+
+    - username: tco14@topcoder.com 
+    - password: Cloud12345 
+    - secret question: city born? san francisco 
+    - password never expires
+
+**Salesforce Package**: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t24000000HEXg
+
+**Demo video**: http://www.screencast.com/t/T5XOBHmNoj
+
+**GitHub repo**: https://github.com/enreeco/tco14
+
+**Gmail User Admin** (if you don't want to create your own app): 
+
+    - username: topcoderopen14@gmail.com 
+    - password: Cloud12345
